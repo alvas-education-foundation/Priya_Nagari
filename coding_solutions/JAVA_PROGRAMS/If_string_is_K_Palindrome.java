@@ -1,6 +1,6 @@
 //Write a Java Program to find if string is K-Palindrome or not
 import java.util.*;
-class If_string_is_K_Palindrome{ 
+class If_String_Is_K_Palindrome{ 
   
     
     static int isKPalRec(String str1,String str2, int m, int n)  
