@@ -1,3 +1,4 @@
+//Problem statement: Write a Java program for Reversal algorithm for array rotation by 3.
 import java.io.*; 
   
 class Reversal_algorithm { 
